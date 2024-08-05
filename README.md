@@ -9,9 +9,9 @@
 
 ![chesthyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chesthyeon&show_icons=true&theme=cobalt)
    <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chesthyeon)](https://solved.ac/chesthyeon)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chesthyeon)](https://solved.ac/supren)
 # 
-####  :wave:[포트폴리오_블로그링크 클릭하세요](https://velog.io/@chesthyen/posts)
+####  :wave:[포트폴리오_블로그링크 클릭하세요](https://www.notion.so/Back-End-Engineer-e2bedf45552d4091aaa0922b4b965df9)
 # 
   
 ####  :clipboard: 기술 스택
@@ -38,6 +38,6 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2: Study log(https://velog.io/@chesthyen/posts)
  
   <br/>
