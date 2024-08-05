@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<!--
 # 백엔드 엔지니어 유방현의 포트폴리오
 
 안녕하세요! 백엔드 개발과 클라우드 아키텍처에 열정을 가진 유방현입니다.
@@ -65,4 +63,3 @@
 - 이메일: niw927@naver.com
 - 전화번호: 010-3472-5877
 - GitHub: [https://github.com/chesthyeon](https://github.com/chesthyeon)
--->
