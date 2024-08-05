@@ -9,7 +9,7 @@
 
 ![chesthyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chesthyeon&show_icons=true&theme=cobalt)
    <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chesthyeon)](https://solved.ac/supren)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=supren)](https://solved.ac/supren)
 # 
 ####  :wave:[포트폴리오_블로그링크 클릭하세요](https://www.notion.so/Back-End-Engineer-e2bedf45552d4091aaa0922b4b965df9)
 # 
