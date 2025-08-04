@@ -11,7 +11,7 @@
    <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=supren)](https://solved.ac/supren)
 # 
-####  :wave:[포트폴리오_블로그링크 클릭하세요](https://www.notion.so/Back-End-Engineer-e2bedf45552d4091aaa0922b4b965df9)
+####  :wave:[포트폴리오_블로그링크 클릭하세요](https://www.rallit.com/hub/resumes/1005618/%EC%9C%A0%EB%B0%A9%ED%98%84)
 # 
   
 ####  :clipboard: 기술 스택
