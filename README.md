@@ -11,7 +11,7 @@
    <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=supren)](https://solved.ac/supren)
 # 
-####  :wave:[포트폴리오_블로그링크 클릭하세요](https://www.rallit.com/hub/resumes/1005618/%EC%9C%A0%EB%B0%A9%ED%98%84)
+####  :wave:[포트폴리오_블로그링크 클릭하세요](https://impartial-hosta-867.notion.site/e2bedf45552d4091aaa0922b4b965df9)
 #### 💻 [주요 프로젝트]
 - **[Roome](https://github.com/chesthyeon/WEB2_3_CUBE_BE)** - 실시간 소셜 네트워크 (우수상/인기상)
 - **[WildEarth_NFT](https://github.com/chesthyeon/WildEarth_NFT)** - 블록체인 NFT 플랫폼 (A+)
