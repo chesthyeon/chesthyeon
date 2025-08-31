@@ -16,6 +16,7 @@
 - **[Roome](https://github.com/chesthyeon/WEB2_3_CUBE_BE)** - 실시간 소셜 네트워크 (우수상/인기상)
 - **[WildEarth_NFT](https://github.com/chesthyeon/WildEarth_NFT)** - 블록체인 NFT 플랫폼 (A+)
 - **[OCR 키오스크](https://github.com/chesthyeon/Text-Recognition-kiosk)** - AI 기반 주문 시스템
+-  **[Cloud4C Academy AWS 3-Tier 아키텍처](https://github.com/chesthyeon/AWS-3-Tier-)** - Dongkuk University x Cloud4C: Cloud4C Academy AWS 3-Tier 아키텍처 구축 프로젝트
 # 
   
 ####  :clipboard: 기술 스택
