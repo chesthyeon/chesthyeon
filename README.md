@@ -43,6 +43,5 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log(https://velog.io/@chesthyen/posts)
  
   <br/>
